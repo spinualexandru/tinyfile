@@ -5,6 +5,10 @@ your browser.
 
 <img src="public/screenshot.png" alt="MarineGEO circle logo" style="width: 720px;"/>
 
+# Demo
+
+https://tiny-file.vercel.app/
+
 # How to use
 
 ```shell
