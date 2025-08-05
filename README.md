@@ -24,6 +24,16 @@ $ npm run build
 - [ ] Add a progress bar
 - [ ] Add compression settings
 
+# File Support
+
+- [x] Images
+- [ ] Audio
+- [ ] Video
+- [ ] PDF
+- [ ] Text
+- [ ] Archives
+- [ ] Other
+
 # Credits
 
 - [CompressorJS](https://www.npmjs.com/package/compressorjs)
