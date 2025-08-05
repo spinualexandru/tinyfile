@@ -21,6 +21,8 @@ $ npm run build
 # To do
 
 - [ ] Replace CompressorJS with a more efficient library (e.g. LZMA or a WASM Library)
+- [ ] Add a progress bar
+- [ ] Add compression settings
 
 # Credits
 
