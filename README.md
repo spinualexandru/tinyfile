@@ -1,9 +1,9 @@
-<img src="public/logo.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
-
 # tinyfile
 
 Tiny file is a tiny file compressor service leveraging web technologies to compress files without the files ever leaving
 your browser.
+
+<img src="public/screenshot.png" alt="MarineGEO circle logo" style="width: 720px;"/>
 
 # How to use
 
@@ -20,7 +20,7 @@ $ npm run build
 
 # To do
 
-- [ ] Replace Compression.js with a more efficient library (e.g. LZMA or a WASM Library)
+- [ ] Replace CompressorJS with a more efficient library (e.g. LZMA or a WASM Library)
 
 # Credits
 
